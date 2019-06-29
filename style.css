@@ -1,22 +1,21 @@
-/* here is Ruya styles */
-
-
-.header h1 {
-    color : green;
+/* start of game section styles */
+.game .card{
+    display: inline-block;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    color: #bd4d3b;
+    filter: grayscale(1);
+    transition: all 0.4s ease-in-out;
+}
+.game .card:hover{
+    filter: grayscale(0.3);
+    cursor: n-resizegit ;
 }
 
-.header ul li {
-    color: green;
-}
-.header .container h1{
-    color: purple
+.game .container{
+ margin: 0 auto;
+ width: 60%;
 }
 
-/* here is Makbule style */
-
-.footer h1 {
-    color: blue;
-}
-.footer ul li {
-    color : red;
-}
+/* end of game section styles */
