@@ -1,0 +1,22 @@
+/* here is Ruya styles */
+
+
+.header h1 {
+    color : green;
+}
+
+.header ul li {
+    color: green;
+}
+.header .container h1{
+    color: purple
+}
+
+/* here is Makbule style */
+
+.footer h1 {
+    color: blue;
+}
+.footer ul li {
+    color : red;
+}
