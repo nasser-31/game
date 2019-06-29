@@ -10,7 +10,7 @@
 }
 .game .card:hover{
     filter: grayscale(0.3);
-    cursor: n-resize;
+    cursor: n-resizegit ;
 }
 
 .game .container{
